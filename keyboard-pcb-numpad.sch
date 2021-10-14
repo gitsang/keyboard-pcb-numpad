@@ -388,4 +388,15 @@ Text GLabel 4100 3350 0    50   Input ~ 0
 D+
 Text GLabel 4100 3450 0    50   Input ~ 0
 D-
+$Comp
+L promicro:ProMicro U?
+U 1 1 616BD093
+P 8300 2550
+F 0 "U?" H 8300 3587 60  0000 C CNN
+F 1 "ProMicro" H 8300 3481 60  0000 C CNN
+F 2 "" H 8400 1500 60  0000 C CNN
+F 3 "" H 8400 1500 60  0000 C CNN
+	1    8300 2550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
